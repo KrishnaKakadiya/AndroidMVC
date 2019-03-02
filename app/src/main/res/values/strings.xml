@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shopify</string>
+    <string name="tag_name">Tag Name</string>
+    <string name="tag">Tag : </string>
+    <string name="total_inventory">Total Inventory : </string>
+    <string name="tags_list_page">Tags List Page</string>
+    <string name="products_list_page">Products List</string>
+    <string name="app_not_null_msg_page_number">Please provide valid page number</string>
+    <string name="app_not_null_msg_token">Access token not valid</string>
+    <string name="problem_calling_api">Problem in calling api</string>
+</resources>
